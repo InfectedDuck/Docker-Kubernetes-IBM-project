@@ -1,4 +1,4 @@
-# Guestbook Web Application
+# RealTimeGuestBookApp
 
 This project is a real-time, dynamic guestbook web application built using **Go** for the backend and **HTML**, **CSS**, and **JavaScript** for the frontend. The application utilizes **Redis** as a data store to handle user-submitted entries and is containerized using **Docker** for ease of deployment. The app can run both locally and in cloud environments, with a flexible architecture that scales to meet high traffic demands.
 
